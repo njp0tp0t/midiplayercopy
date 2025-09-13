@@ -1,15 +1,10 @@
-Project: midi-player
-Authors: David Barnes and Michael Kölling
 
-This project is part of the material for the book
-
-   Objects First with Java - A Practical Introduction using BlueJ
-   Seventh edition
-   David J. Barnes and Michael Kölling
-
-It is discussed in chapter 3.
-
-Q47 and Q48:
+/**
+ * Write a description of class TuneCreator here.
+ *
+ * @author (your name)
+ * @version (a version number or a date)
+ */
 public class TuneCreator
 {
     // instance variables - replace the example below with your own
@@ -35,5 +30,4 @@ public class TuneCreator
         // put your code here
         
     }
-    
-Q49. 
+}
