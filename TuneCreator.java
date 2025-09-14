@@ -27,7 +27,14 @@ public class TuneCreator
      */
     public void CreateAndPlay()
     {
-        // put your code here
-        
+       SimpleTune tune = new SimpleTune();
+       tune.addNote("A", 10);
+       tune.addNote("B", 10);
+       tune.addNote("C", 10);
+       tune.addNote("D", 10);
+       tune.addNote("E", 10);
+       tune.setInstrument(13);
+       
+       player.playTune(tune);
     }
 }

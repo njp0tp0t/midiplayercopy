@@ -36,4 +36,17 @@ public class TuneCreator
         
     }
     
-Q49. 
+Q49 and Q50: public void CreateAndPlay()
+    {
+       SimpleTune tune = new SimpleTune();
+       tune.addNote("A", 10);
+       tune.addNote("B", 10);
+       tune.addNote("C", 10);
+       tune.addNote("D", 10);
+       tune.addNote("E", 10);
+       tune.setInstrument(13);
+       
+       player.playTune(tune);
+    }
+    
+
