@@ -49,4 +49,17 @@ Q49 and Q50: public void CreateAndPlay()
        player.playTune(tune);
     }
     
+Q53. Done
+
+Q54. Done
+
+Q55. starting from the breakpoint of the method, each following line turns green until
+     the method ends.
+     
+Q56. if the value is bigger than 0, it will skip the else statemnt and end the method.
+
+Q57. Done
+
+Q58. 
+
 
